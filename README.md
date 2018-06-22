@@ -40,8 +40,6 @@ Framgia has many technical books that all employees can read. To manage and use 
 
 # [System]
 - Send verify email when users signup success.
-- Send message to admin when users made a bet.
-- Send message via email to users made a bet when the match ended.
 
 # Step by step
 1. Design database
